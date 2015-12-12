@@ -1,0 +1,1 @@
+0 5 17 ? * MON-FRI * python ~/foo/instadraft.py >> ~/foo/instadraft.log
